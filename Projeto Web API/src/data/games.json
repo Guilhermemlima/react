@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Black Myth Wukong",
+        "rating": 5,
+        "src": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/f40ef565c380c617020e559b4b4b089edd93ec09/capsule_616x353.jpg?t=1729236256",
+        "video":"https://www.youtube.com/embed/_mAnlVXtDD8?si=C-r8hXgRqEW1tKfN",
+        "description": "Black Myth: Wukong é um jogo de ação e aventura baseado na clássica história chinesa Jornada ao Oeste. O jogo é desenvolvido pela Game Science e segue o personagem principal, Sun Wukong, o Rei Macaco, em sua jornada épica. Com gráficos impressionantes, combate desafiador e um enredo inspirado na mitologia chinesa, Black Myth: Wukong mistura elementos de RPG com ação de combate em tempo real. A história explora o poder da imortalidade de Wukong e suas batalhas contra forças sobrenaturais enquanto ele busca respostas sobre seu destino."
+    },
+    {
+        "id": 2,
+        "name": "Senua's Saga: Hellblade II",
+        "rating": 4.7,
+        "src": "https://senuassaga.com/opengraph-image.png?5bc11765fd0129ec",
+        "video":"https://www.youtube.com/embed/9ywWqKhujeI?si=WMiXGGA9mhyMljsh",
+        "description": "Hellblade II é a sequência do aclamado Hellblade: Senua's Sacrifice, desenvolvido pela Ninja Theory. O jogo continua a história de Senua, uma guerreira celta que enfrenta suas próprias batalhas mentais e psicológicas enquanto busca resgatar a alma de seu amado. Com uma narrativa intensa e profunda sobre psicose e trauma, Senua’s Saga é marcado pela sua abordagem realista de doenças mentais e a criação de ambientes deslumbrantes. O jogo utiliza tecnologia de captura de movimentos para trazer performances de alta qualidade, mergulhando o jogador em uma jornada emocionalmente complexa, com combates brutais e uma história imersiva."
+        
+    },
+    {
+        "id": 3,
+        "name": "Elden Ring Shadow of the Erdtree",
+        "rating": 5,
+        "src": "https://cdn.awsli.com.br/2500x2500/1041/1041512/produto/256635686/elden-ring-shadow-of-the-erdtree-dlc---pc-c-digo-digital-yqq2qys6oe.jpg",
+        "video":"https://www.youtube.com/embed/qLZenOn7WUo?si=KAzpxCrP1jK3izLB",
+        "description": "Shadow of the Erdtree é uma expansão para o jogo Elden Ring, desenvolvido pela FromSoftware. Esta DLC expande o vasto mundo aberto de Elden Ring e oferece novos desafios, locais, personagens e itens. A expansão é ambientada na misteriosa árvore Erdtree e continua a narrativa sombria do jogo original, onde os jogadores enfrentam inimigos poderosos, exploram terras esquecidas e descobrem segredos antigos. Como em Elden Ring, a jogabilidade de ação e RPG é centrada no combate desafiador, exploração e personalização do personagem, com mais oportunidades para os jogadores interagirem com o mundo e seus mitos."
+    },
+    {
+        "id": 4,
+        "name": "Persona 3 Reload",
+        "rating": 4.2,
+        "src": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2605/7b70e463bf05b20fbf99f8bf81956aa805969da98d9dcde8.jpg",
+        "video":"https://www.youtube.com/embed/DG_gy1Tecco?si=6uZecn5Vr9XQPG9i",
+        "description": "Persona 3 Reload é um remake do clássico jogo de RPG Persona 3, que mistura elementos de simulação de vida e dungeon crawling. Desenvolvido pela Atlus, o jogo segue um grupo de estudantes do ensino médio que, após a chegada de um misterioso poder, devem enfrentar criaturas chamadas Shadows durante a Hora Sombria, uma realidade paralela que ocorre à meia-noite. Os jogadores assumem o papel do protagonista, que deve formar laços com outros personagens e enfrentar batalhas com o auxílio de Personas, manifestações de seus próprios arquétipos internos. O remake promete gráficos atualizados, novas mecânicas e uma experiência de jogo melhorada."
+    },
+    {
+        "id": 5,
+        "name": "Hades II",
+        "rating": 4,
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsp-v-7HJOt1TKxm1iHhvyf3jag7yUmyOawg&s",
+        "video":"https://www.youtube.com/embed/l-iHDj3EwdI?si=I2uIXdh1rU5CZIp8",
+        "description": "Hades 2 é a sequência do aclamado Hades, um jogo de ação rogue-like desenvolvido pela Supergiant Games. Neste título, os jogadores assumem o papel de Melinoe, a filha da Deusa Hades, que busca vingança contra os deuses do Olimpo. Como no primeiro jogo, Hades 2 mantém a mecânica de combate fluida e desafiadora, com a diferença de novos poderes, armas e uma nova narrativa. O jogo também mantém a forte ênfase em repetir o ciclo de morte e renascimento característico de rogue-likes, onde cada tentativa traz novos desafios, inimigos e opções. A estética única e o enredo dinâmico continuam a ser os maiores atrativos de Hades 2, mantendo a jogabilidade viciante e envolvente."
+    }
+]
